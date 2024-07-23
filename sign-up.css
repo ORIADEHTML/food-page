@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(59, 120, 80, 0.329);
+    display: flex;
+    justify-content: center;
+}
+form{
+    height: 30rem;
+    width: 30rem;
+    background-color: white;
+    border-radius: 5px;
+    padding: 70px;
+}
+form h1{
+    text-align: center;
+}
+
+form label{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+form input{
+   height: 25px;
+   width: 30rem;
+}
+form button{
+    height: 30px;
+    width: 30.5rem;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

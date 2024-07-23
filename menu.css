@@ -1,0 +1,99 @@
+main h1{
+    text-align: center;
+}
+
+main .food-menu{
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    gap: 30px;
+}
+main .food-menu button{
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: rgb(210, 148, 93);
+    color: white;
+    border: none;
+
+}
+main .food-menu .food1{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food1 img{
+    height: 250px;
+    width: 300px;
+    
+}
+main .food-menu .food2{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food2 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food3{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food3 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food4{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food4 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food5{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food5 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food6{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food6 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food7{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food7 img{
+    height: 250px;
+    width: 300px;
+}
+main .food-menu .food8{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-inline: 23px;
+    padding-block: 10px;
+}
+main .food-menu .food8 img{
+    height: 250px;
+    width: 300px;
+}
